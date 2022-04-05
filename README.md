@@ -1,6 +1,6 @@
 # webscrap
 <h5>😎Webscraping using python😎</h5>
-<body> Packages used:
+<body> Packages used:<p>
   1. beautiful soup  (To extract data from scrapped website)
   2.smtplib          (Generate Email to any internet machine )
   3.requests         (Fetch Url to the scrapped Website)
