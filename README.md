@@ -12,6 +12,6 @@ Beautiful Soup is a Python package for parsing HTML and XML files and extracting
 ![nacho1](https://user-images.githubusercontent.com/74130928/161691750-8ba2ce95-8e85-4d70-9bba-6e0c166beecd.jpg)
 
 <h5>Scrapped Website</h5>
-![nacho2](https://user-images.githubusercontent.com/74130928/161692188-6172b0fb-23a9-447d-b554-8d6c14e0b134.jpg)
+![nacho2](https://user-images.githubusercontent.com/74130928/161692639-6a4442fc-9099-43e9-9d8d-e42105cda605.jpg)
 
 <h5><a href="https://news.ycombinator.com/">Visit site</a></h5>
