@@ -1,5 +1,11 @@
 # webscrap
-<h5>😎webscraping using python,with packages such as beautiful soup,smtp lib,requests😎</h5>
+<h5>😎Webscraping using python😎</h5>
+<body> Packages used:
+  1. beautiful soup  (To extract data from scrapped website)
+  2.smtplib          (Generate Email to any internet machine )
+  3.requests         (Fetch Url to the scrapped Website)
+  4. Datetime        (Show date and time)
+</body>
 
 
 ![nacho](https://user-images.githubusercontent.com/74130928/161690153-09a55ade-b664-4cdd-89cb-0299ada62bb4.jpg)
