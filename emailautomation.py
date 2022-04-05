@@ -25,11 +25,11 @@ def extract_news(url):
     return cnt
 cnt = extract_news('https://https://news.ycombinator.com/')
 content = content+cnt
-content = content + ('<br>------------</br>')             
+content = content + ('<br>****************</br>')             
 content = content + ('<br></br>End of Message!')
 
 
-print('Composing Email...')
+print('Generating Email...')
 
 
 SERVER = 'smtp.gmail.com'   # your smtp server
@@ -40,7 +40,7 @@ PASS = ''                   # your email id password
 
 # creating a message body
 msg = MIMEMultipart()
-msg['Subject'] = 'Top News Stories from HN [Automated Email]' + '' + str(now.day) + '-' + str(now.year)
+msg['Subject'] = 'Cookie Presents top News Stories from HN [Automated Email]' + '' + str(now.day) + '-' + str(now.year)
 msg['From']  = FROM
 msg['To'] = TO
 msg.attach(MIMEText(content,'html'))
